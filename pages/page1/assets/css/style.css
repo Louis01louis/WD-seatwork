@@ -1,0 +1,45 @@
+body {
+	font-family: sans-serif, fantasy;
+	background-color: #D35F5F;
+}
+#All {
+	background-color: #F0BEBE;
+    width: 1600px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#Pic {
+	background-color: #DF7D7D;
+	width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+	text-align: center;
+}
+#Pro {
+	float: center;	
+}
+
+#Info {
+	background-color: pink;
+}
+
+#Data {
+	background-color: #DF7D7D;
+	width: 600px;
+	float: left;
+}
+
+#About {
+	background-color: #DF7D7D;
+	float: right;
+	width: 900px;
+	text-align: center;
+	border-spacing: 0px;
+}
+
