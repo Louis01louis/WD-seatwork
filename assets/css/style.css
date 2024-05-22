@@ -1,13 +1,48 @@
 body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: white;
-    text-align: left;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+	font-family: sans-serif, fantasy;
+	background-color: aliceblue;
+}
+#All {
+	background-color: #F0BEBE;
+    width: 1600px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#profile {
+	background-color: #DF7D7D;
+	width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+	text-align: center;
+}
+button{
+  background-color: rgb(235, 178, 152);
+  font-size: 30px;
+}
+#Pro {
+	float: center;
+}
+
+#Info {
+	background-color: pink;
+}
+
+#Data {
+	background-color: #DF7D7D;
+	width: 600px;
+	float: left;
+}
+
+#About {
+	background-color: #DF7D7D;
+	float: right;
+	width: 900px;
+	text-align: center;
+	border-spacing: 0px;
+}
