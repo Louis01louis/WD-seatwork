@@ -1,6 +1,6 @@
 body {
 	font-family: sans-serif, fantasy;
-	background-color: aliceblue;
+	background-color: rgb(176, 218, 255);
 }
 #name {
 	text-align: center;
@@ -23,7 +23,7 @@ img {
 	margin-right: auto;
 }
 .pic {
-	background-color: blue;
+	background-color: rgb(74, 193, 248);
 	position: absolute;
 	top: 7px;
 	left: 5px;
@@ -34,7 +34,7 @@ img {
     margin-right: auto;
 }
 .me {
-	background-color: blueviolet;
+	background-color: #6494ce;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	border-radius: 10px;
 	width: 700px;
@@ -43,7 +43,7 @@ img {
 	margin-right: auto;
 }
 .interact {
-	background-color: aquamarine;
+	background-color: rgb(74, 193, 248);
 	align-items: center;
 	border-radius: 10px;
 	width: 900px;
@@ -53,10 +53,10 @@ img {
 	right: 5px;
 	display: flex;
 	flex-direction: column;
-	
+
 }
 .words {
-	background-color: aqua;
+	background-color: #6494ce;
 	border-radius: 20px;
 	position: absolute;
 	top: 200px;
@@ -66,7 +66,10 @@ img {
 }
 .btn {
 	position: absolute;
-	top: 500px;
-	width: 700px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	top: 400px;
+	width: 100px;
 	height: 300px;
 }
