@@ -1,45 +1,22 @@
-body {
-	font-family: sans-serif, fantasy;
-	background-color: #D35F5F;
-}
-#All {
-	background-color: #F0BEBE;
-    width: 1600px;
-    height: 1000px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
-
-#Pic {
-	background-color: #DF7D7D;
-	width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-h4{
-	text-align: center;
-}
-#Pro {
-	float: center;	
-}
-
-#Info {
-	background-color: pink;
-}
-
-#Data {
-	background-color: #DF7D7D;
-	width: 600px;
-	float: left;
-}
-
-#About {
-	background-color: #DF7D7D;
-	float: right;
+.interact {
+	background-color: aquamarine;
+	align-items: center;
+	border-radius: 10px;
 	width: 900px;
-	text-align: center;
-	border-spacing: 0px;
+	height: 900px;
+    position:absolute;
+	top: 7px;
+	right: 5px;
+	display: flex;
+	flex-direction: column;
+	
 }
-
+.btn {
+	position: absolute;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	top: 100px;
+	width: 100px;
+	height: 300px;
+}

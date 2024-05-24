@@ -2,47 +2,71 @@ body {
 	font-family: sans-serif, fantasy;
 	background-color: aliceblue;
 }
-#All {
-	background-color: #F0BEBE;
-    width: 1600px;
-    height: 1000px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
-
-#profile {
-	background-color: #DF7D7D;
-	width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-h4{
+#name {
 	text-align: center;
 }
-button{
-  background-color: rgb(235, 178, 152);
-  font-size: 30px;
+#bw {
+	margin-left: 5px;
+    margin-right: 5px;
 }
-#Pro {
-	float: center;
+#ab {
+	text-align: center;
 }
-
-#Info {
-	background-color: pink;
-}
-
-#Data {
-	background-color: #DF7D7D;
-	width: 600px;
-	float: left;
+#abt {
+	
 }
 
-#About {
-	background-color: #DF7D7D;
-	float: right;
+img {
+	display: block;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pic {
+	background-color: blue;
+	position: absolute;
+	top: 7px;
+	left: 5px;
+	border-radius: 10px;
 	width: 900px;
-	text-align: center;
-	border-spacing: 0px;
+	height: 900px;
+    margin-left: 5px;
+    margin-right: auto;
+}
+.me {
+	background-color: blueviolet;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 10px;
+	width: 700px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.interact {
+	background-color: aquamarine;
+	align-items: center;
+	border-radius: 10px;
+	width: 900px;
+	height: 900px;
+    position:absolute;
+	top: 7px;
+	right: 5px;
+	display: flex;
+	flex-direction: column;
+	
+}
+.words {
+	background-color: aqua;
+	border-radius: 20px;
+	position: absolute;
+	top: 200px;
+	width: 700px;
+	height: 300px;
+	text-align: justify;
+}
+.btn {
+	position: absolute;
+	top: 500px;
+	width: 700px;
+	height: 300px;
 }
