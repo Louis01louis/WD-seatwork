@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  	⬇ ⬇ ⬇ 
+  	A work that has some of my information
 </div>
 
 <br />
@@ -69,6 +69,7 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - Buttons
+- Changing pages
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -109,4 +110,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | HTML basics and picture formating |              www.w3schools.com              |
+| Sample Title |         div positionings          | https://www.youtube.com/watch?v=MxEtxo_AaZ4 |
+| Sample Title |          buttons basics           | https://www.youtube.com/watch?v=tDqTXipQmBU |
+| Sample Title |            Back button            | https://www.youtube.com/watch?v=h_6gU6R86FI |
