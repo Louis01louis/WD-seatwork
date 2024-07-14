@@ -2,6 +2,10 @@ body {
 	font-family: sans-serif, fantasy;
 	background-color: rgb(176, 218, 255);
 }
+a {
+	text-decoration: none;
+	color: white;
+}
 #name {
 	text-align: center;
 }
@@ -99,3 +103,15 @@ img {
   .btn:hover .over {
 	opacity: 1;
   }
+
+.returnn {
+	background-color: rgb(26, 111, 168);
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+	position: absolute;
+	top: 700px;
+	height: 50px;
+	width: 150px;
+}
